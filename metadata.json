@@ -1,0 +1,7 @@
+{
+  "name": "SmartParking",
+  "description": "Smart parking reservation and management system prototype with AI recommendations and dynamic pricing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
